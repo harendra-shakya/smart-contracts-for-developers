@@ -8,8 +8,7 @@ This repository comprises smart contracts every developer should master building
 
 1. **Multi-Signature Wallets:** Construct a multi-signature wallet contract that requires multiple parties to sign off on transactions before they are executed. This adds an extra layer of security, especially for projects with large funds.
 
-
-1. **Staking Contracts:** Develop staking contracts that allow token holders to lock up their tokens and receive rewards for participating in the network's consensus or governance processes.
+1. **Staking/Time-Locked Contracts:** Develop staking contracts that allow token holders to lock up their tokens and receive rewards for participating in the network's consensus or governance processes.
 
 1. **Oracle Contracts:** Implement oracle contracts that fetch real-world data and feed it into the blockchain. Oracles are critical for smart contracts that rely on external information.
 
@@ -20,8 +19,6 @@ This repository comprises smart contracts every developer should master building
 1. **Subscription Contracts:** Develop subscription-based smart contracts that automatically charge users at regular intervals in exchange for access to specific services or content.
 
 1. **Lottery Contracts:** Build transparent and fair lottery contract using chainlink vrf that randomly select winners and distribute prizes automatically.
-
-1. **Time-Locked Contracts:** Construct contracts that release funds or trigger certain actions only after a specified time period has passed.
 
 1. **Decentralized Autonomous Organizations (DAOs):** Create contracts that power DAOs, enabling decentralized decision-making and organization management.
 
