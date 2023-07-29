@@ -8,7 +8,6 @@ This repository comprises smart contracts every developer should master building
 
 1. **Multi-Signature Wallets:** Construct a multi-signature wallet contract that requires multiple parties to sign off on transactions before they are executed. This adds an extra layer of security, especially for projects with large funds.
 
-1. **Decentralized Exchanges (DEX):** Create a decentralized exchange where users can trade tokens directly from their wallets without the need for a central authority. DEXs are an essential part of the DeFi ecosystem.
 
 1. **Staking Contracts:** Develop staking contracts that allow token holders to lock up their tokens and receive rewards for participating in the network's consensus or governance processes.
 
@@ -20,10 +19,15 @@ This repository comprises smart contracts every developer should master building
 
 1. **Subscription Contracts:** Develop subscription-based smart contracts that automatically charge users at regular intervals in exchange for access to specific services or content.
 
-1. **Lottery Contracts:** Build transparent and fair lottery contracts that randomly select winners and distribute prizes automatically.
+1. **Lottery Contracts:** Build transparent and fair lottery contract using chainlink vrf that randomly select winners and distribute prizes automatically.
 
 1. **Time-Locked Contracts:** Construct contracts that release funds or trigger certain actions only after a specified time period has passed.
 
 1. **Decentralized Autonomous Organizations (DAOs):** Create contracts that power DAOs, enabling decentralized decision-making and organization management.
+
+1. **Lending and Borrowing Contracts:** Contracts that facilitate peer-to-peer lending and borrowing of digital assets, enabling interest earnings and collateral-backed loans.
+
+1. **Decentralized Exchanges (DEX):** Create a decentralized exchange where users can trade tokens directly from their wallets without the need for a central authority. DEXs are an essential part of the DeFi ecosystem.
+
 
 These projects cover a wide range of use cases and will give you valuable experience in different aspects of blockchain development. As you build these contracts, remember to consider security best practices and conduct thorough testing before deploying them on the mainnet. Also, keep up to date with the latest advancements and updates in the blockchain ecosystem, as the technology is continually evolving.
