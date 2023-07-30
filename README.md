@@ -1,5 +1,7 @@
 # Smart Contracts for Blockchain Developers
 
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/harendra-shakya/support/blob/main/README.md) 
+
 This repository comprises smart contracts every developer should master building, covering essential skills from token creation to decentralized governance.
 
 1. **Token Contracts:** Create standard ERC-20 or ERC-721 token contracts. ERC-20 tokens are fungible (interchangeable) tokens, while ERC-721 tokens are non-fungible (unique) tokens. Understanding how to create and manage tokens is fundamental to many blockchain projects.
