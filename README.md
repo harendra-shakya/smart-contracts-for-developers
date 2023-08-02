@@ -28,7 +28,6 @@ This repository comprises smart contracts every developer should master building
 
 1. **Decentralized Exchanges (DEX):** Create a decentralized exchange where users can trade tokens directly from their wallets without the need for a central authority. DEXs are an essential part of the DeFi ecosystem.
 
-
 These projects cover a wide range of use cases and will give you valuable experience in different aspects of blockchain development. As you build these contracts, remember to consider security best practices and conduct thorough testing before deploying them on the mainnet. Also, keep up to date with the latest advancements and updates in the blockchain ecosystem, as the technology is continually evolving.
 
 ## Support Me
